@@ -1,6 +1,7 @@
+
 /**
  * Schnittstelle für eine einfache Taschenrechner-Klasse.
- *
+ * <p>
  * Implementiert die Additionsfunktion von Integer-Zahlen.
  */
 public interface Calculator {
@@ -21,3 +22,5 @@ public interface Calculator {
     int divide(int i, int i1);
 
 }
+
+

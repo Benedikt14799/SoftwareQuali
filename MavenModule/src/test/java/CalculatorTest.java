@@ -1,9 +1,5 @@
-import org.junit.Test;
-
-import java.util.concurrent.atomic.AtomicInteger;
-
+import org.testng.annotations.Test;
 import static org.junit.Assert.*;
-import static org.junit.jupiter.api.Assertions.assertThrows;
 
 
 public class CalculatorTest {
