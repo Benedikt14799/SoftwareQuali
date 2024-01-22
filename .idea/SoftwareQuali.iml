@@ -33,5 +33,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Maven: org.mockito:mockito-core:4.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.powermock:powermock-api-mockito2:2.0.9" level="project" />
   </component>
 </module>
